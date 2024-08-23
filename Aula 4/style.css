@@ -1,0 +1,20 @@
+body{
+    color:#e9f2f3de;
+    background-image: url("https://th.bing.com/th/id/OIP.xMzAMfR9GZsQQX4gZ8bFyQHaGH?rs=1&pid=ImgDetMain");
+    background-image: url("https://th.bing.com/th/id/OIP.OTgQL5MlU7ZoZNdA8ta2igHaEd?rs=1&pid=ImgDetMain");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    font-size: 50px;
+    text-align:center;
+
+}
+
+p{
+    color:rgb(6, 2, 27);
+    background-color:rgb(204, 236, 113);
+    font-size: 35px;
+
+
+
+}
